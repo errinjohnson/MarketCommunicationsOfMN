@@ -50,17 +50,18 @@ body {
   color: #333;
 }
 
-.header h1 {
+/* .header h1 {
   font-size: 3em;
   font-weight: 700;
   letter-spacing: 1px;
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow for text */
-}
+/* } */
+*/
 
-.header p {
+/* .header p {
   font-size: 1.4em;
   margin-top: 10px;
-}
+} */
 
 /* Navigation Styles */
 nav {
